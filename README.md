@@ -1,17 +1,14 @@
 ﻿<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
-<<<<<<< HEAD
 # Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 =======
->>>>>>> ccdeb3f2cd291e050f6a5e6f503455e697f893e8
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
 [![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
 
-<<<<<<< HEAD
 _Marlin_ is a firmware for RepRap machines, also known as _3D printers_. firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards through the use of a "hardware abstraction layer."
 
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
@@ -27,11 +24,9 @@ Please let us know if Marlin misbehaves in any way. Volunteers are standing by!
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
 
 Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
->>>>>>> ccdeb3f2cd291e050f6a5e6f503455e697f893e8
 
 ## Building Marlin
 
-<<<<<<< HEAD
 To build Marlin you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino.cc/en/main/software) or [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide) with _[Visual Studio Code](https://code.visualstudio.com/download)_.
 
 - [Installing Marlin (Arduino)](http://marlinfw.org/docs/basics/install_arduino.html)
@@ -83,7 +78,6 @@ To build Marlin 2.0 you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino
 
 - Submit **Bug Fixes** as Pull Requests to the ([bugfix-2.0.x](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)) branch.
 - Submit **New Features** to the ([dev-2.1.x](https://github.com/MarlinFirmware/Marlin/tree/dev-2.1.x)) branch.
->>>>>>> ccdeb3f2cd291e050f6a5e6f503455e697f893e8
 - Follow the [Coding Standards](http://marlinfw.org/docs/development/coding_standards.html) to gain points with the maintainers.
 - Please submit your questions and concerns to the [Issue Queue](https://github.com/MarlinFirmware/Marlin/issues).
 
@@ -103,7 +97,6 @@ For best results getting help with configuration and troubleshooting, please use
 
 The current Marlin dev team consists of:
 
-<<<<<<< HEAD
 - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA &nbsp; [Donate](http://www.thinkyhead.com/donate-to-marlin) / Flattr: [![Flattr Scott](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=thinkyhead&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
 - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - USA
 - Chris Pepper [[@p3p](https://github.com/p3p)] - UK
@@ -117,7 +110,6 @@ The current Marlin dev team consists of:
  - Bob Kuhn [[@Bob-the-Kuhn](https://github.com/Bob-the-Kuhn)] - USA
  - João Brazio [[@jbrazio](https://github.com/jbrazio)] - Portugal
  - Erik van der Zalm [[@ErikZalm](https://github.com/ErikZalm)] - Netherlands &nbsp; [![Flattr Erik](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
->>>>>>> ccdeb3f2cd291e050f6a5e6f503455e697f893e8
 
 ## License
 
